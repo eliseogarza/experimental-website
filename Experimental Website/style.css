@@ -5,4 +5,10 @@ body,header {
 
 .header {
     font-style: oblique;
+    font-size: 100px;
+}
+
+.bigfont {
+    font-style: oblique;
+    font-size: 100px;
 }
