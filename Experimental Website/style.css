@@ -3,12 +3,12 @@ body,header {
     height: 100%
 }
 
-.header {
+.test-font {
     font-style: oblique;
     font-size: 100px;
 }
 
-.bigfont {
+.big-font {
     font-style: oblique;
     font-size: 100px;
 }
