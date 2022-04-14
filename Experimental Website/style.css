@@ -1,14 +1,24 @@
 
-body,header {
-    height: 100%
+/*
+
+body, header {
+    height: 100%;
 }
 
+*/
+
 .test-font {
-    font-style: oblique;
     font-size: 100px;
 }
 
 .big-font {
-    font-style: oblique;
     font-size: 100px;
+}
+
+.name {
+    font-size: 80px;
+    color:mintcream;
+    padding-top: 12%;
+    padding-bottom: 0%;
+    font-family: 'Times New Roman', Times, serif;
 }
