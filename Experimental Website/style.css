@@ -8,10 +8,6 @@ body, html {
     color: var(--TotalColor)
 }
 
-.big-font {
-    font-size: 30px;
-}
-
 .centered-box {
     display: flex;
     flex-wrap: wrap;
