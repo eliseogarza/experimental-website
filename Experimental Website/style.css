@@ -1,7 +1,11 @@
-
+:root {
+    --TotalColor: hsl(180, 100%, 65%);
+}
 body, html {
     height: 100%;
     font-family: 'Times New Roman', Times, serif;
+    background-image: url(img/space-nebula-4k-wallpaper-3840x2160-uhdpaper.com-626.0_b.jpg);
+    color: var(--TotalColor)
 }
 
 .test-font {
@@ -12,9 +16,11 @@ body, html {
     font-size: 30px;
 }
 
-.name {
-    font-size: 80px;
-    color:black;
-    margin-left: 50%;
-    margin-right: 50%;
+.header {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 40px;
+    /*color: hsl(180, 100%, 65%);*/
+    justify-content: center;
+    text-align: center;
 }
